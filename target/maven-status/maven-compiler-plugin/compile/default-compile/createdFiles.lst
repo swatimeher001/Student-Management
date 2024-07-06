@@ -1,0 +1,12 @@
+com\example\studentmanagement\model\Student.class
+com\example\studentmanagement\controller\StudentController.class
+com\example\studentmanagement\StudentManagementApplication.class
+com\example\studentmanagement\service\StudentService.class
+com\example\studentmanagement\repository\UserRepository.class
+com\example\studentmanagement\repository\StudentRepository.class
+com\example\studentmanagement\service\AttendanceService.class
+com\example\studentmanagement\repository\AttendanceRepository.class
+com\example\studentmanagement\controller\AttendanceController.class
+com\example\studentmanagement\model\Attendance.class
+com\example\studentmanagement\model\User.class
+com\example\studentmanagement\config\WebConfig.class

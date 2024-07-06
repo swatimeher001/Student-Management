@@ -1,0 +1,12 @@
+C:\Users\Swati\Desktop\CrudApp-thymeleaf-springboot-mysql-hibernate-maven-main\src\main\java\com\example\studentmanagement\config\WebConfig.java
+C:\Users\Swati\Desktop\CrudApp-thymeleaf-springboot-mysql-hibernate-maven-main\src\main\java\com\example\studentmanagement\controller\AttendanceController.java
+C:\Users\Swati\Desktop\CrudApp-thymeleaf-springboot-mysql-hibernate-maven-main\src\main\java\com\example\studentmanagement\controller\StudentController.java
+C:\Users\Swati\Desktop\CrudApp-thymeleaf-springboot-mysql-hibernate-maven-main\src\main\java\com\example\studentmanagement\model\Attendance.java
+C:\Users\Swati\Desktop\CrudApp-thymeleaf-springboot-mysql-hibernate-maven-main\src\main\java\com\example\studentmanagement\model\Student.java
+C:\Users\Swati\Desktop\CrudApp-thymeleaf-springboot-mysql-hibernate-maven-main\src\main\java\com\example\studentmanagement\model\User.java
+C:\Users\Swati\Desktop\CrudApp-thymeleaf-springboot-mysql-hibernate-maven-main\src\main\java\com\example\studentmanagement\repository\AttendanceRepository.java
+C:\Users\Swati\Desktop\CrudApp-thymeleaf-springboot-mysql-hibernate-maven-main\src\main\java\com\example\studentmanagement\repository\StudentRepository.java
+C:\Users\Swati\Desktop\CrudApp-thymeleaf-springboot-mysql-hibernate-maven-main\src\main\java\com\example\studentmanagement\repository\UserRepository.java
+C:\Users\Swati\Desktop\CrudApp-thymeleaf-springboot-mysql-hibernate-maven-main\src\main\java\com\example\studentmanagement\service\AttendanceService.java
+C:\Users\Swati\Desktop\CrudApp-thymeleaf-springboot-mysql-hibernate-maven-main\src\main\java\com\example\studentmanagement\service\StudentService.java
+C:\Users\Swati\Desktop\CrudApp-thymeleaf-springboot-mysql-hibernate-maven-main\src\main\java\com\example\studentmanagement\StudentManagementApplication.java
